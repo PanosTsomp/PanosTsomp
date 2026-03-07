@@ -58,4 +58,4 @@ Currently, I’m preparing to start a Master’s degree in Business Information 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
-![Thank you for visiting my GitHub](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Tech+Enthusiast;Startup+Builder)
+![Thank you for visiting my GitHub](https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+your+time)
