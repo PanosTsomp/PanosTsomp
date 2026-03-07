@@ -53,15 +53,9 @@ Currently, I’m preparing to start a Master’s degree in Business Information 
 
 ---
 
-# 📊 GitHub Stats
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PanosTsomp&theme=github-dark)
-
-## 🐍 Contribution Graph
+## My pet snake Roger
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
-![](https://visitcount.itsvg.in/api?id=PanosTsomp&icon=0&color=0)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Tech+Enthusiast;Startup+Builder)
+![Thank you for visiting my GitHub](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Tech+Enthusiast;Startup+Builder)
