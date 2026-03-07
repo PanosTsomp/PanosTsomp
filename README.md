@@ -55,8 +55,13 @@ Currently, I’m preparing to start a Master’s degree in Business Information 
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=PanosTsomp\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PanosTsomp&theme=github-dark)
 
-![](https://nirzak-streak-stats.vercel.app/?user=PanosTsomp\&theme=dark\&hide_border=false)
+## 🐍 Contribution Graph
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PanosTsomp\&theme=dark\&hide_border=false\&layout=compact)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
+![](https://visitcount.itsvg.in/api?id=PanosTsomp&icon=0&color=0)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Tech+Enthusiast;Startup+Builder)
