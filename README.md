@@ -1,6 +1,6 @@
 # About Me
 
-Hi! I'm **Panagiotis Ilias Tsompanoglou**, a Digital Systems graduate from the University of Thessaly. 
+Hi! I'm Panagiotis Ilias Tsompanoglou, a Digital Systems graduate from the University of Thessaly. 
 
 I enjoy building software, exploring new technologies, and working at the intersection of technology and entrepreneurship.
 
